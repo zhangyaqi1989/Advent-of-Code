@@ -1,5 +1,5 @@
 # Advent-of-Code
-This repo contains IPython notebook of AoC, I am inspired by Peter Norvig's fantastic GitHub project called Pytudes
+This repo contains my Jupyter notebooks of Advent of Code from 2015-2018.
 
 * 2015
   - [Python Notebook](2015/AoC-2015-Python.ipynb)
