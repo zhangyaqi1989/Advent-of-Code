@@ -20,4 +20,7 @@ This repo contains my Jupyter notebooks of Advent of Code from 2015-2018.
   - [Python Notebook](2018/AoC-2018-Python.ipynb)
   - [Julia Notebook](2018/AoC-2018-Julia.ipynb)
 
+* 2019
+  - [Python Notebook](2019/AoC-2019-Python.ipynb)
+
 
